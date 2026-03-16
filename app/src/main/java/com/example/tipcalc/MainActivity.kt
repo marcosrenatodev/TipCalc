@@ -90,18 +90,15 @@ class MainActivity : AppCompatActivity() {
         }
 
         override fun onStartTrackingTouch(seekBar: SeekBar?) {
-            TODO("Not yet implemented")
         }
 
         override fun onStopTrackingTouch(seekBar: SeekBar?) {
-            TODO("Not yet implemented")
         }
 
     }
 
     private val billTextWatcher = object : TextWatcher {
         override fun afterTextChanged(s: Editable?) {
-            TODO("Not yet implemented")
         }
 
         override fun beforeTextChanged(
@@ -110,7 +107,6 @@ class MainActivity : AppCompatActivity() {
             count: Int,
             after: Int
         ) {
-            TODO("Not yet implemented")
         }
 
         override fun onTextChanged(
